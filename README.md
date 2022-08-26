@@ -43,7 +43,18 @@ I'm a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"  title="Trello" alt="Trello" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annsjaw&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
 <!--
+---
+
+### :writing_hand: Blog Posts :
+
+
 **Annsjaw/Annsjaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
