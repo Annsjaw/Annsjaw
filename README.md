@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the world.
+I'm a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I'm learning to develop in Yandex.
 
