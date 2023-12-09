@@ -3,7 +3,7 @@
 _Aiogram, Telebot, Pandas, Beautiful-soup_
 
 ##### Projects:
--- TravelBot (guide for travel) -> MVP (soon)
+- TravelBot (guide for travel) -> MVP (soon)
 <br>_Python, Aiogram, SQLAlchemy, alembic, PostgreSQL, Docker_
 
 - [Weather collector] (weather collector from cities)
