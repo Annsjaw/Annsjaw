@@ -3,7 +3,7 @@
 _Aiogram, Telebot, Pandas, Beautiful-soup_
 
 ##### Projects:
-- TravelBot (guide for travel) -> MVP (soon)
+- TravelBot (guide for travel)
 <br>_Python, Aiogram, SQLAlchemy, alembic, PostgreSQL, Docker_
 
 - [Weather collector] (weather collector from cities)
@@ -52,3 +52,4 @@ _Aiogram, Telebot, Pandas, Beautiful-soup_
    [YaMDB]: <https://github.com/Tozix/api_yamdb>
    [Blogging platform]: <https://github.com/Annsjaw/yatube_project>
    [API for blogging platform]: <https://github.com/Annsjaw/api_for_yatube>
+   [TravelBot]: <https://t.me/balifm_gid_bot>
